@@ -1,0 +1,10 @@
+C:\Users\colin_000\Desktop\CSMods\TrafficTap\TrafficTap\bin\Debug\TrafficTap.dll
+C:\Users\colin_000\Desktop\CSMods\TrafficTap\TrafficTap\bin\Debug\TrafficTap.pdb
+C:\Users\colin_000\Desktop\CSMods\TrafficTap\TrafficTap\bin\Debug\Assembly-CSharp.dll
+C:\Users\colin_000\Desktop\CSMods\TrafficTap\TrafficTap\bin\Debug\ColossalManaged.dll
+C:\Users\colin_000\Desktop\CSMods\TrafficTap\TrafficTap\bin\Debug\ICities.dll
+C:\Users\colin_000\Desktop\CSMods\TrafficTap\TrafficTap\bin\Debug\UnityEngine.dll
+C:\Users\colin_000\Desktop\CSMods\TrafficTap\TrafficTap\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\colin_000\Desktop\CSMods\TrafficTap\TrafficTap\obj\Debug\TrafficTap.csprojResolveAssemblyReference.cache
+C:\Users\colin_000\Desktop\CSMods\TrafficTap\TrafficTap\obj\Debug\TrafficTap.dll
+C:\Users\colin_000\Desktop\CSMods\TrafficTap\TrafficTap\obj\Debug\TrafficTap.pdb
